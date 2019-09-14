@@ -15,4 +15,17 @@ name = "cath" name[-1-1]--> 't'
 interestingly ''[0]--> error BUT ''[2:2] --> ''
 
 <string>.find(<string>) 
+<string>.find(<string>:<number>)
 but if target string does not exsist which can turn out -1
+
+(以下听上去不太像人话,翻译的中文完全不像了，不过英文也不太像。。。）
+<a href = 'URL"xxx</a><br /></li>>
+源代码进入浏览器的内容
+so your browser sent a request, the URL is what's shown in the address bar(看见网址的地方）
+发送request 返回了文本流
+URL isthe way of locating content on the web
+http是对web一个请求
+
+take the text the come back from a web request， find a link that text, which is going to be a tag that starts with <a href =
+
+这些URL要在爬虫中使用
