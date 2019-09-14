@@ -1,1 +1,18 @@
 1.3 GHz = 一次进行了1.3 billion 循环
+assginment statemnet
+Name = expression (赋值 arrow  variable must be defined 
+string must be the sequance of characters between single quotes, so as between double quotes
+print Hello  is not correct, which seems like an undefined variable 
+<string> + <string> is OK , + means connection
+'my name is ' + '9' is wrong but 'my name is ' *'9' is OK
+
+<string>[<expression>] 'Udacity'[0]-->'U'
+name = "cath" name[-1-1]--> 't'
+
+<string>[<expression> : <expression>]
+'Udacity'[3:4] ---> 'c' 'Udacity'[3:3] --> nothing
+'Udacity'[:4]  ----> Udac
+interestingly ''[0]--> error BUT ''[2:2] --> ''
+
+<string>.find(<string>) 
+but if target string does not exsist which can turn out -1
