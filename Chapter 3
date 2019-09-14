@@ -1,0 +1,18 @@
+<a href=  a means that this is an anchor tag. href means that it's hyperlink reference specified by the url
+
+assignment 理解相关语句,不管中英文怎么跟个鸟语一样。。。
+anyway， a, x=2, 3
+
+Adding the '' empty string to a string is a weird idea. But really, it doesn't do anything at all. 
+It's like adding 0 to a number: it doesn't change anything.
+
+the empty string is '' NOT ' '. There's no space between those quotes!
+Then, trying to get s[0] would cause an error!
+
+#EASY TO FOTGET
+But if s is the '' empty string, then s[0] will cause an error because there is no character at position 0.
+
+This is called an edge case in programming. It's a situation that doesn't come up too often (you usually don't need to use an empty string), but it does happen sometime.
+
+It's easy to forget about edge cases and doing so is a common cause of bugs.
+
