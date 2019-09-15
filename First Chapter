@@ -33,6 +33,8 @@ http是对web一个请求
 
 take the text the come back from a web request， find a link that text, which is going to be a tag that starts with <a href =
 
+str(<number>) ---> string
+
 练习：经常没理解题意，还有
 
 这些URL要在爬虫中使用
